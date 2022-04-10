@@ -894,6 +894,10 @@ img {
   margin-bottom: 30px;
 }
 
+.contact-form-link {
+  color: var(--accent-color);
+}
+
 .contact-form-checkbox-label {
   display: flex;
   align-items: center;
